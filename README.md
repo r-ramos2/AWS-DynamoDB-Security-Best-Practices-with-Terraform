@@ -1,0 +1,1 @@
+# AWS-DynamoDB-Security-Best-Practices-with-Terraform
