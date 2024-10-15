@@ -1,0 +1,38 @@
+[
+  {
+    "customerID": "CUST001",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Springfield",
+      "state": "IL",
+      "zipCode": "62704"
+    }
+  },
+  {
+    "customerID": "CUST002",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Centerville",
+      "state": "OH",
+      "zipCode": "45459"
+    }
+  },
+  {
+    "customerID": "CUST003",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice.johnson@example.com",
+    "address": {
+      "street": "789 Pine Blvd",
+      "city": "Riverdale",
+      "state": "NY",
+      "zipCode": "10471"
+    }
+  }
+]
