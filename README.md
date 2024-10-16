@@ -27,6 +27,10 @@ In the era of cloud computing, securing data is not just an afterthought but a f
 
 **Amazon DynamoDB** is a fully managed, serverless NoSQL database designed for high-performance and scalability. It automatically scales with application traffic and provides flexible data models for key-value and document-based workloads. DynamoDB is widely used in applications that require consistent low-latency access to large amounts of data.
 
+<img width="914" alt="dynamodb-diagram" src="https://github.com/user-attachments/assets/a957d790-fa0c-4b22-a388-2167ef719bba">
+
+*Architecture Diagram*
+
 ### **Key Features:**
 - **Flexible Data Models:** Supports key-value and document data structures.
 - **On-Demand Scalability:** DynamoDB automatically scales based on traffic to meet application needs.
