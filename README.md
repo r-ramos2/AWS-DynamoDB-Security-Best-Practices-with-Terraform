@@ -20,6 +20,7 @@ In the era of cloud computing, securing data is not just an afterthought but a f
 5. [Populating DynamoDB with JSON](#populating-dynamodb-with-json)
 6. [Next Steps](#next-steps)
 7. [Conclusion](#conclusion)
+8. [Resources](#resources)
 
 ---
 
@@ -158,3 +159,18 @@ The sample JSON file provided includes various data fields, ensuring flexibility
 ## **Conclusion**
 
 This project showcases the importance of securely managing AWS DynamoDB tables by implementing best practices around **IAM policies**, **encryption with KMS**, **backup and recovery**, and **network security** using **Terraform**. By leveraging these AWS security features, we ensure that our DynamoDB infrastructure is highly available, scalable, and secure for production environments.
+
+
+---
+
+### **Resources**
+
+1. [AWS DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb)
+2. [AWS Identity and Access Management (IAM)](https://docs.aws.amazon.com/iam)
+3. [AWS Key Management Service (KMS)](https://docs.aws.amazon.com/kms)
+4. [AWS VPC Endpoints](https://docs.aws.amazon.com/vpc)
+5. [AWS CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch)
+6. [AWS CloudTrail Documentation](https://docs.aws.amazon.com/cloudtrail)
+7. [Terraform Documentation](https://www.terraform.io/docs)
+8. [AWS Backup](https://docs.aws.amazon.com/aws-backup)
+9. [DynamoDB JSON Data](https://github.com/your-repo/sample-dynamodb-json)
